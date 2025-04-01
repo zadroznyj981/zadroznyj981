@@ -5,7 +5,7 @@
 
 ---
 
-🔧 I’m a seasoned software architect and full stack engineer with 10+ years of experience delivering high-performance web and mobile solutions across startups and enterprises.
+🔧 I’m a seasoned software architect and full stack engineer with 5+ years of experience delivering high-performance web and mobile solutions across startups and enterprises.
 
 ### 🚀 Tech Stack & Expertise
 
