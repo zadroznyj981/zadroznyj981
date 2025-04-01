@@ -13,7 +13,7 @@
 - **Backend:** Node.js, Express, Python, Django, REST, GraphQL  
 - **Mobile:** Flutter, Dart (cross-platform native apps)  
 - **Cloud & DevOps:** AWS (EC2, S3, Lambda, RDS, CloudFront), Docker, Kubernetes, Terraform, CI/CD  
-- **Database:** PostgreSQL, MongoDB, Firebase  
+- **Database:** MySQL, PostgreSQL, MongoDB, Firebase  
 - **Architecture:** Microservices, Clean Code, TDD, Scalable System Design
 
 ### 💼 What I Do
